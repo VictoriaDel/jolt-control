@@ -1,4 +1,4 @@
-wxpython<4.1.0
+# wxpython<4.1.0
 timeout_decorator
 decorator
 pyserial<4.0
